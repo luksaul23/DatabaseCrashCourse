@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithDatabases", "FunWithDatabases\FunWithDatabases.csproj", "{F3A81A0A-9566-4184-B643-7CC3E4EEF8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3A81A0A-9566-4184-B643-7CC3E4EEF8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A81A0A-9566-4184-B643-7CC3E4EEF8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A81A0A-9566-4184-B643-7CC3E4EEF8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A81A0A-9566-4184-B643-7CC3E4EEF8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5ADCE6E-39F4-47B6-90C7-B5131252C9D6}
+	EndGlobalSection
+EndGlobal
